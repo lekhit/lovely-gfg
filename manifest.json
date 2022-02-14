@@ -1,6 +1,6 @@
 {
-  "name": "GFG ENHANCED",
-  "description": "Hide other language's code in gfg!",
+  "name": "LoveLY GFG",
+  "description": "gives you clean view on gfg",
   "version": "1.0",
   "manifest_version": 3,
   "content_scripts": [
